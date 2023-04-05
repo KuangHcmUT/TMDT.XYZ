@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TMDTxyz/static/css/main.37bfbc50.css",
+    "main.js": "/TMDTxyz/static/js/main.f85cbb35.js",
+    "static/js/787.64822342.chunk.js": "/TMDTxyz/static/js/787.64822342.chunk.js",
+    "index.html": "/TMDTxyz/index.html",
+    "main.37bfbc50.css.map": "/TMDTxyz/static/css/main.37bfbc50.css.map",
+    "main.f85cbb35.js.map": "/TMDTxyz/static/js/main.f85cbb35.js.map",
+    "787.64822342.chunk.js.map": "/TMDTxyz/static/js/787.64822342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37bfbc50.css",
+    "static/js/main.f85cbb35.js"
+  ]
+}
