@@ -1,0 +1,60 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th {
+    text-align: left;
+    font-weight: bold;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #218838;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.col-md-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-body h3 {
+    margin-bottom: 10px;
+}
